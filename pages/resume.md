@@ -5,7 +5,7 @@
 %%amazon-sde-ii-section%%
 
 ###### **Amazon, Software Development Engineer II** <br> *Jul 2025 – Present &nbsp;|&nbsp; Bellevue, WA*
-- Built a new modularized tier-1 microservice platform with AWS CDK, ECS, and NLBs that calculates the delivery date for over half of all items on Amazon.com. Processes 3 million+ TPS (transactions per second) globally.
+- Built a new modular tier-1 microservice platform with AWS CDK, ECS, and NLBs that calculates the delivery date for over half of all items on Amazon.com. Processes 3 million+ TPS (transactions per second) globally.
 - Reduced delivery date calculation latency by 10% via parallel processing with Kotlin Coroutines and Java Futures.
 
 ###### **Amazon, Software Development Engineer I** <br> *Feb 2024 – Jun 2025 &nbsp;|&nbsp; Bellevue, WA*
@@ -70,7 +70,7 @@ Take a peek at my [projects page!](projects.html)
 
 ## Leadership
 
-###### **Captain, Strangers United FC** <br> *Sept 2024 – Present*
+###### **Captain, Strangers United FC** <br> *Mar 2025 – Present*
 - Manage weekly games via organizing the roster, explaining tactics, handling on and off-field conflicts, and leading training sessions to develop the team.
 - Promoted the team to a higher division after one season.
 
