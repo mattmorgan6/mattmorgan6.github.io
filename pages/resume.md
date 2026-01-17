@@ -4,19 +4,25 @@
 
 %%amazon-sde-ii-section%%
 
-###### **Amazon, Software Development Engineer II** <br> *Jul 2025 – Present &nbsp;|&nbsp; Bellevue, WA*
-- Built a new modular tier-1 microservice platform with AWS CDK, ECS, and NLBs that calculates the delivery date for over half of all items on Amazon.com. Processes 3 million+ TPS (transactions per second) globally.
-- Reduced delivery date calculation latency by 10% via parallel processing with Kotlin Coroutines and Java Futures.
+###### **Amazon, Software Development Engineer II** <br> *Jun 2025 – Present &nbsp;|&nbsp; Bellevue, WA*
+- Architected and built a new tier-1 microservice platform using AWS CDK, ECS, and NLBs, processing 3 million+ TPS
+(transactions per second) globally to calculate delivery dates for Amazon.com items in sub-50ms latency.
+Designed distributed orchestration algorithms and launched the "Add to Delivery" feature, processing 50M daily
+requests while ensuring data consistency and preventing race conditions in high concurrency scenarios.
+- Engineered a 2ms low-latency carbon emission inference layer for providing eco-friendly delivery options.
+- Built AI-generated documentation and code review MCP Server that saved 1.2 hours per flagged review across 6 teams.
 
 ###### **Amazon, Software Development Engineer I** <br> *Feb 2024 – Jun 2025 &nbsp;|&nbsp; Bellevue, WA*
-- Launched delivery date algorithms for same-day delivery items.
-- Created a shadow traffic service and replicable environments to automate testing and save 165 engineering hours per month.
+- Reduced overall delivery date calculation latency by 10% via parallel processing in Kotlin Coroutines and Java Futures.
+- Created a shadow traffic service and replicable environments that saved 185 engineering hours per month.
+- Owned the design and build of the post-checkout use case for 30-minute delivery from ambiguous requirements.
 
 %%yoodli-section%%
 
 ###### **Yoodli AI, Software Engineer** <br> *Jun 2023 – Jan 2024 &nbsp;|&nbsp; Seattle, WA*
-- Constructed user interface for AI interaction and new user onboarding with React, TypeScript, Material UI, and Google Cloud Firestore.
-- Improved desktop app new user activation by 40% through re-design of home page, tips, and weekly recap emails.
+- Developed user interfaces for AI interaction with React, TypeScript, and Google Cloud Firestore, implementing complex
+state management for real-time user experiences.
+- Improved desktop app new user activation by 40% through data-driven redesign of home page, tips, and recap emails.
 
 ###### **Oregon State University, Undergraduate Machine Learning Researcher** <br> *Sep 2021 – Jun 2023 &nbsp;|&nbsp; Corvallis, OR*<br>
 - Trained a food detection computer vision model capable of detecting 254 different foods with YOLOR (PyTorch). 
@@ -26,7 +32,8 @@
 %%amazon-section%%
 
 ###### **Amazon, Software Development Engineer Intern** <br> *Jun 2022 – Sep 2022 &nbsp;|&nbsp; Bellevue, WA*
-- Built a microservice and API with AWS ECS and Java to store actions taken on Amazon.com order cancellations, deliveries, and data privacy requests. Implemented with an Aurora PostgreSQL database at scale for millions of actions per month.
+- Engineered an audit microservice with AWS ECS and Java, tracking order lifecycle events across distributed systems
+with an Aurora PostgreSQL data store and enabling GDPR compliance.
 
 %%motional-section%%
 
@@ -60,7 +67,7 @@
 
 **B.S. Computer Science at Oregon State University**<br>
 **4.0 GPA &nbsp; - &nbsp; Graduated June 2023**<br>
-Relevant Coursework: *Data Structures, Algorithms, Operating Systems, Database Architectures, Intro to Machine Learning, ML Security and Attacks*
+Relevant Coursework: *Data Structures, Algorithms, Operating Systems, Database Architectures, Intro to Machine Learning, ML Security and Attacks.*
 
 
 
@@ -71,8 +78,8 @@ Take a peek at my [projects page!](projects.html)
 ## Leadership
 
 ###### **Captain, Strangers United FC** <br> *Mar 2025 – Present*
-- Manage weekly games via organizing the roster, explaining tactics, handling on and off-field conflicts, and leading training sessions to develop the team.
-- Promoted the team to a higher division after one season.
+- Organized the roster, explained tactics, handled player conflicts, and led training sessions that earned our team
+promotion to a higher division after one season.
 
 ###### **Social Services Volunteer, St. Vincent de Paul** <br> *Jan 2023 – Jun 2023*
 - Weekly volunteer to help community members find safe living, pay off bills, and obtain essential living needs.
