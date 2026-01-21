@@ -5,16 +5,21 @@
 %%amazon-sde-ii-section%%
 
 ###### **Amazon, Software Development Engineer II** <br> *Jun 2025 – Present &nbsp;|&nbsp; Bellevue, WA*
-- Architected and built a new tier-1 microservice platform using AWS CDK, ECS, and NLBs, processing 3 million+ TPS
-(transactions per second) globally to calculate delivery dates for Amazon.com items in sub-50ms latency.
-Designed distributed orchestration algorithms and launched the "Add to Delivery" feature, processing 50M daily
-requests while ensuring data consistency and preventing race conditions in high concurrency scenarios.
-- Engineered a 2ms low-latency carbon emission inference layer for providing eco-friendly delivery options.
-- Built AI-generated documentation and code review MCP Server that saved 1.2 hours per flagged review across 6 teams.
+- Architected a new distributed systems platform using AWS CDK, ECS, and Network Load Balancers, processing 3M+ TPS
+(transactions per second) globally to calculate delivery dates for items in sub-50ms latency.
+- Designed distributed orchestration algorithms and launched the "Add to Delivery" feature, processing 50M daily
+requests while ensuring scalability and preventing race conditions in high concurrency scenarios.
+- Reduced infrastructure costs by $4.7M annually by optimizing CloudWatch logging (55% cost reduction) and
+implementing intelligent auto-scaling on fine-tuned compute resources by evaluating performance-cost tradeoffs.
+- Built a code review MCP Server that saved an average of 1.2 engineering hours per flagged review across 6 teams.
+- Led and mentored a new team member on a customer-facing migration project involving API design, cross-team
+communication, deployments, and on-call procedures that resulted in on-time delivery with zero production incidents.
 
 ###### **Amazon, Software Development Engineer I** <br> *Feb 2024 – Jun 2025 &nbsp;|&nbsp; Bellevue, WA*
 - Reduced overall delivery date calculation latency by 10% via parallel processing in Kotlin Coroutines and Java Futures.
-- Created a shadow traffic service and replicable environments that saved 185 engineering hours per month.
+- Ensured 100% availability during peak traffic events (Prime Day, Black Friday) by diagnosing and remediating
+production infrastructure bottlenecks including disk saturation, IP exhaustion, and load balancer instability.
+- Created a shadow traffic service and replicable environments that saved teams approximately 185 hours per month.
 - Owned the design and build of the post-checkout use case for 30-minute delivery from ambiguous requirements.
 
 %%yoodli-section%%
@@ -22,11 +27,12 @@ requests while ensuring data consistency and preventing race conditions in high 
 ###### **Yoodli AI, Software Engineer** <br> *Jun 2023 – Jan 2024 &nbsp;|&nbsp; Seattle, WA*
 - Developed user interfaces for AI interaction with React, TypeScript, and Google Cloud Firestore, implementing complex
 state management for real-time user experiences.
-- Improved desktop app new user activation by 40% through data-driven redesign of home page, tips, and recap emails.
+- Proposed and built a three-step onboarding flow from Figma prototype to production, increasing new user activation by
+40% by guiding desktop app users to their first session.
 
 ###### **Oregon State University, Undergraduate Machine Learning Researcher** <br> *Sep 2021 – Jun 2023 &nbsp;|&nbsp; Corvallis, OR*<br>
-- Trained a food detection computer vision model capable of detecting 254 different foods with YOLOR (PyTorch). 
-- Programmed and deployed Raspberry Pis to send cafeteria tray pictures to a FastAPI Python inference server in Docker on AWS.
+- Constructed a food detection computer vision model using PyTorch (YOLOR) capable of detecting 254 different foods,
+deployed to cafeterias via a FastAPI Python inference server, with Raspberry Pis capturing photos to reduce food waste.
 - Presented at the National Conference for Undergraduate Research and Stanford Research Conference.
 
 %%amazon-section%%
@@ -79,7 +85,7 @@ Take a peek at my [projects page!](projects.html)
 
 ###### **Captain, Strangers United FC** <br> *Mar 2025 – Present*
 - Organized the roster, explained tactics, handled player conflicts, and led training sessions that earned our team
-promotion to a higher division after one season.
+promotion to a higher division after our first season.
 
 ###### **Social Services Volunteer, St. Vincent de Paul** <br> *Jan 2023 – Jun 2023*
 - Weekly volunteer to help community members find safe living, pay off bills, and obtain essential living needs.
@@ -89,5 +95,5 @@ promotion to a higher division after one season.
 - Increased grant funding by 250% and founded a new project to serve the homeless monthly in Portland, OR.
 
 ###### **President, OSU Assoc. for Computing Machinery** <br> *Mar 2020 – Mar 2022*
-- Took 1st place and led a record 5 teams to win Oregon's International Collegiate Programming Competition site.
-- Organized weekly meetings and strategized budget and marketing for the club and its 50 active members.
+- • Took 1st place and led a record of 5 teams to sweep Oregon's International Collegiate Programming Competition site.
+• Organized weekly meetings and strategized budget and marketing for the club and its 50 active members.
