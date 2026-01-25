@@ -58,6 +58,7 @@ with an Aurora PostgreSQL data store and enabling GDPR compliance.
 ###### **Oregon Health & Science University, Student Developer** <br> *Mar 2021 – Jun 2021 &nbsp;|&nbsp; Remote*
 - Developed a genome search and navigation feature capable of searching 10 GB in 14 milliseconds for the open-source React based JBrowse genome annotation viewer.
 - Awarded as best student mentor for CASS, the student developer group at Oregon State University.
+- Published to Genome Biology Journal: [JBrowse 2: a modular genome browser with views of synteny and structural variation](https://pubmed.ncbi.nlm.nih.gov/37069644/).
 
 ###### **Linux Foundation, Front End Student Developer** <br> *Sep 2020 – Mar 2021 &nbsp;|&nbsp; Remote*
 - Built the Linux Foundation's new project tooling web-app using Angular and ReTool for use by 450 open-source projects.
